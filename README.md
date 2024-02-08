@@ -1,2 +1,4 @@
 # Shorten-links
-Shorten Links Using Python
+### Getting Start
+* ``` cd ShortenLinks```
+* ``` pip install requirements.txt```
