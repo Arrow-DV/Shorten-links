@@ -1,4 +1,4 @@
 # Shorten-links
-### Getting Start
-* ``` cd ShortenLinks```
-* ``` pip install requirements.txt```
+## Getting Started
+###  `cd ShortenLinks `
+### `pip install -r requirements.txt `
